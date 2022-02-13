@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   /* background-color: #cceeff; */
   background-image: linear-gradient(#cceeff, #007399);
