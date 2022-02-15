@@ -12,6 +12,6 @@ function myFunction() {
 
 $('body').ripples({
 	resolution: 512,
-	dropRadius: 10,
-	perturbance: 0.04,
+	dropRadius: 30,
+	perturbance: 0.1,
 });
